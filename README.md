@@ -24,9 +24,7 @@ git config --global user.email “seu email”
 ```
 
 ### clonar repositório
-
-```bash
- git git clone -b main
+git clone -b main
 
 
 ### Inicializa o repositório
